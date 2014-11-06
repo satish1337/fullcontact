@@ -16,10 +16,10 @@ Get one here - https://www.fullcontact.com/developer/pricing/
 > Tip
 
 Open your *~/.bashrc*, add below code and save
-
+```
 alias e='python /path/fullcontact.py -e'
 alias t='python /path/fullcontact.py -t'
-
+```
 source ~/.bashrc
 
 and start using 
